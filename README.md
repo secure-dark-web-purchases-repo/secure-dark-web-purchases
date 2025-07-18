@@ -125,4 +125,6 @@ Verify the .onion address.
 Secure dark web purchases require diligence. Follow this guide. Remember that engaging in dark web activities may be illegal in your jurisdiction.
 Plase contribute and add stars to this repo.
 
-Update: url is responsive and live
+
+
+Update: url is now operational and accessible
