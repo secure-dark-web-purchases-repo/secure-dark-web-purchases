@@ -127,4 +127,6 @@ Plase contribute and add stars to this repo.
 
 
 
-Update: url is now operational and accessible
+
+
+Update: Fixed broken url, now live and functioning
